@@ -1,4 +1,4 @@
-baseurl = "https://brianmendoza.com/"
+baseurl = ""
 title = "Brian Mendoza"
 theme = "pulp"
 canonifyurls = true
@@ -6,9 +6,6 @@ hasCJKLanguage = true
 # pygmentsCodefences = true
 # pygmentsUseClasses = true
 googleAnalytics = "UA-177299399-1"
-
-[blackfriday]
-  hrefTargetBlank = true
 
 [markup.goldmark.renderer]
     unsafe = true # Allow user HTML tags
