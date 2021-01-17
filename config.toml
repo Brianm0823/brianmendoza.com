@@ -12,12 +12,10 @@ googleAnalytics = "UA-177299399-1"
 
 [params]
     author = "Brian Mendoza"
-    avatar = "avatar.png"
+    avatar = "avatar.jpeg"
     favicon = "icon.ico"
     description = """
-        Recent graduate from the University of Houston with a B.S. in Computer Science.
-        Seeking a Jr Software Engineering position where I can apply my skills and create 
-        high quality software solutions with a team. 
+        Software Developer at cPanel
     """
     publicationYear = "2020"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
